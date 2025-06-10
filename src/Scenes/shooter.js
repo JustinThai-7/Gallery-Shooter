@@ -1,4 +1,4 @@
-export default class Shooter extends Phaser.Scene {
+class Shooter extends Phaser.Scene {
     constructor() {
         super('shooter');
         this.playerSpeed = 400;

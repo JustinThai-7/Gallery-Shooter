@@ -1,4 +1,4 @@
-export default class HighScore extends Phaser.Scene {
+class HighScore extends Phaser.Scene {
     constructor() {
         super('highScore');
     }
